@@ -1,0 +1,1 @@
+This is a form with prices for each Magazine

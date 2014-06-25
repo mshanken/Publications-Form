@@ -3,7 +3,7 @@ html,body{
 	font-size:16px;
 	line-height: 1.5;
 	font-family: 'Lato', sans-serif;
-	background-image: url(../img/brillant.png);
+	background-image: url('https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/brillant.png');
 }
 
 .clearfix:before, .clearfix:after { content: ""; display: table; }
