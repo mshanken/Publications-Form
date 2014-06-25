@@ -262,12 +262,12 @@
             <ul>
               <li>
                 <label class="radio">
-                  <input type="radio" name="imoption" id="im-uscan1" value="$595.00/year US/Canada 16 issues">$595.00/year US/Canada 16 issues</input>
+                  <input type="radio" name="imoption" id="im-uscan1" value="$595.00/year US/Canada 16 issues">$975.00/year US/Canada 16 issues</input>
                 </label>
               </li>
               <li>
                 <label class="radio">
-                  <input type="radio" name="imoption" id="im-for1" value="$695.00/year Foreign 16 issues">$695.00/year Foreign 16 issues</input>
+                  <input type="radio" name="imoption" id="im-for1" value="$695.00/year Foreign 16 issues">$1,075/year Foreign 16 issues</input>
                 </label>
               </li>
               <li>
