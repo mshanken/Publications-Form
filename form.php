@@ -289,7 +289,7 @@
             <h3 class="label">Impact Databank</h3>
             <p class="tagline">Exclusive beer, wine &amp; distilled spirits industry reports with data and analysis:</h4> 
             <p>brand data, consumption trends, brand depletion trends, drinker demographics, advertising expenditures and much more.</p>
-            <p><a href="http://assets.winespectator.com/wso/pdf/IMdatabank2012_orderform.pdf" alt="Impact Databank order link" target="_blank">Click here for more information (PDF).</a>
+            <p><a href="http://assets.winespectator.com/wso/pdf/ImpactOrderForm2-2013.pdf" alt="Impact Databank order link" target="_blank">Click here for more information (PDF).</a>
           </fieldset>
         </div>
         </div><!-- /.row-fluid --> 
