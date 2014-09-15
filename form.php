@@ -23,8 +23,8 @@
           $caoption = $_POST['caoption'];
           $waoption = $_POST['waoption'];
           $mwoption = $_POST['mwoption'];
-          $faoption = $_POST['faoption'];
-          $imoption = $_POST['imoption'];
+         // $faoption = $_POST['faoption'];
+         $imoption = $_POST['imoption'];
           $fname = $_POST['fname'];
           $lname = $_POST['lname'];
           $company = $_POST['company'];
@@ -218,38 +218,7 @@
           </div>
 
 
-          <div class="span4">
-            <fieldset id="fa" class="">
-            <h3 class="label">Food Arts</h3>
-            <figure>
-              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/fa.jpg" title="Food Arts magazine" alt="Food Arts">
-              <figcaption class="tagline">At the Restaurant and Hotel Forefront</figcaption>
-            </figure>
-            <p class="freemsg">Free Digital Edition with Print Subscription</p>
-            <ul>
-              <li>
-                <label class="radio">
-                  <input type="radio" name="faoption" id="fa-us1" value="$40.00/year US 10 issues">$40.00/year US 10 issues</input>
-                </label>
-              </li>
-              <li>
-                <label class="radio">
-                  <input type="radio" name="faoption" id="fa-can1" value="$46.00/year Canada 10 issues">$46.00/year Canada 10 issues</input>
-                </label>
-              </li>
-              <li>
-                <label class="radio">
-                  <input type="radio" name="faoption" id="fa-for1" value="$60.00/year Foreign 10 issues">$60.00/year Foreign 10 issues</input>
-                </label>
-              </li>
-              <li>
-                  <label class="radio">
-                    <input type="radio" name="faoption" id="fa-none" value="None" checked="checked">No thanks.</input>
-                  </label>
-                </li>
-            </ul>
-          </fieldset>
-          </div>
+          
 
           <div class="span4">
           <fieldset id="im" class="">
