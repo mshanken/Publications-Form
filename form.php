@@ -23,8 +23,8 @@
           $caoption = $_POST['caoption'];
           $waoption = $_POST['waoption'];
           $mwoption = $_POST['mwoption'];
-         // $faoption = $_POST['faoption'];
-         $imoption = $_POST['imoption'];
+          $faoption = $_POST['faoption'];
+          $imoption = $_POST['imoption'];
           $fname = $_POST['fname'];
           $lname = $_POST['lname'];
           $company = $_POST['company'];
@@ -82,7 +82,7 @@
 ?>
 
 	<? echo $error; ?>
-    
+
     <form id="subform" method="post" action="" class="form-horizontal">
       <div class="row-fluid grouping">
        
@@ -90,7 +90,7 @@
             <fieldset id="ws" class="">            
               <h3 class="label">Wine Spectator</h3>
               <figure>
-                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/ws.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WS123114giftcenter.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
                 <figcaption class="tagline">Take the Guesswork Out of Enjoying Wine</figcaption>
               </figure>  
               <ul>
@@ -122,7 +122,7 @@
             <fieldset id="ca" class="clearfix">
               <h3 class="label">Cigar Aficionado</h3>
               <figure>
-                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/ca.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/CA201411snd.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
                 <figcaption class="tagline">The Good Life Magazine for Men</figcaption>
               </figure>
               <ul>
@@ -154,7 +154,7 @@
           <fieldset id="wa" class="">
             <h3 class="label">Whisky Advocate</h3>
             <figure>
-              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/wa.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WA0414_cover5snd.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
               <figcaption class="tagline">America's Leading Whisky magazine</figcaption>
             </figure>
             <ul>
@@ -188,7 +188,7 @@
           <fieldset id="mw" class="">
             <h3 class="label">Market Watch</h3>
             <figure>
-              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/mw.jpg" title="Market Watch magazine" alt="Market Watch">
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/MW1014_coversnd.jpg" title="Market Watch magazine" alt="Market Watch">
               <figcaption class="tagline">Keep on top of the Wine, Spirits and Beer Business</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
@@ -217,14 +217,11 @@
           </fieldset>
           </div>
 
-
-          
-
           <div class="span4">
           <fieldset id="im" class="">
             <h3 class="label">Impact</h3>
             <figure>
-              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/im.jpg" title="Impact magazine" alt="Impact">
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/IM100114_coversnd.jpg" title="Impact magazine" alt="Impact">
               <figcaption class="tagline">News and Research For the Beverage Alcohol Executive</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
@@ -253,7 +250,7 @@
           <div class="span12">
           <fieldset id="imdb" class="">
             <figure>
-                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/imdb.jpg" title="Impact Databank" alt="Impact Databank">
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/impact.jpg" title="Impact Databank" alt="Impact Databank">
               </figure>
             <h3 class="label">Impact Databank</h3>
             <p class="tagline">Exclusive beer, wine &amp; distilled spirits industry reports with data and analysis:</h4> 
