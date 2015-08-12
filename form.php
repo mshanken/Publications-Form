@@ -1,4 +1,4 @@
-<?        
+<?
         $error = '';
         $wsoption = '';
         $caoption = '';
@@ -16,9 +16,9 @@
         $zipCode = '';
         $country = '';
         $verify = '';
-    
+
         if(isset($_POST['sendform'])) {
-                                        
+
           $wsoption = $_POST['wsoption'];
           $caoption = $_POST['caoption'];
           $waoption = $_POST['waoption'];
@@ -36,7 +36,7 @@
           $country = $_POST['country'];
           $verify = $_POST['verify'];
 
-    
+
         if(trim($fname) == '') {
           $error = '<div class="error_message"><img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/error.png" title="error!" alt="error!" />You must enter your first name!</div>';
         } else if(trim($lname) == '') {
@@ -50,30 +50,30 @@
         } else if(trim($verify) != '4') {
           $error = '<div class="error_message"><img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/error.png" title="error!" alt="error!" />Attention! The verification number you entered is incorrect.</div>';
         }
-    
+
         if($error == '') {
 
           $address = "custserv@mshanken.com";
 
           $e_subject = 'M. Shanken Publication Subscription Order Form has been filled out...';
-          
+
           $e_body = "$fname $lname has filled out the Publication Subscription form.\r\n\nTheir information:\r\n\n";
           $e_content = "Name: $fname $lname\r\n\nCompany: $company\r\n\nEmail: $email\r\n\nStreet: $street\r\n\nCity/State: $city, $state\r\n\nZip: $zipCode\r\n\nCountry: $country\r\n\n";
           $e_options = "These are the options they selected:\r\n\nWine Spectator: $wsoption\r\n\nCigar Aficionado: $caoption\r\n\nWhisky Advocate: $waoption\r\n\nMarket Watch: $mwoption\r\n\nFood Arts: $faoption\r\n\nImpact: $imoption";
-          
+
           $msg = $e_body . $e_content . $e_options;
 
           mail($address, $e_subject, $msg, "From: $email\r\nReply-To: $email\r\nReturn-Path: $email\r\n");
 
 
           // Email has sent successfully, echo a success page.
-          
+
           echo "<div id='success_page'>";
           echo "<img id='' src='https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/accepted.png' title='success!' alt='success!' />";
           echo "<h1>Thank you for your order.</h1>";
           echo "<p>Please allow 4-6 weeks for your first issue to arrive.</p>";
           echo "</div>";
-                      
+
         }
       }
 
@@ -82,17 +82,21 @@
 ?>
 
 	<? echo $error; ?>
-    
+
     <form id="subform" method="post" action="" class="form-horizontal">
       <div class="row-fluid grouping">
-       
+
           <div class="span4">
-            <fieldset id="ws" class="">            
+            <fieldset id="ws" class="">
               <h3 class="label">Wine Spectator</h3>
               <figure>
+<<<<<<< HEAD
                 <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WS093015snd.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
+=======
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WS123114giftcenter.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
+>>>>>>> 24f5d41ced2509ef6f969f6f35d7173a61760472
                 <figcaption class="tagline">Take the Guesswork Out of Enjoying Wine</figcaption>
-              </figure>  
+              </figure>
               <ul>
                 <li>
                   <label class="radio">
@@ -122,7 +126,11 @@
             <fieldset id="ca" class="clearfix">
               <h3 class="label">Cigar Aficionado</h3>
               <figure>
+<<<<<<< HEAD
                 <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/CA201509snd.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
+=======
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/CA201411snd.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
+>>>>>>> 24f5d41ced2509ef6f969f6f35d7173a61760472
                 <figcaption class="tagline">The Good Life Magazine for Men</figcaption>
               </figure>
               <ul>
@@ -154,7 +162,11 @@
           <fieldset id="wa" class="">
             <h3 class="label">Whisky Advocate</h3>
             <figure>
+<<<<<<< HEAD
               <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WA201501snd.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
+=======
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WA0414_cover5snd.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
+>>>>>>> 24f5d41ced2509ef6f969f6f35d7173a61760472
               <figcaption class="tagline">America's Leading Whisky magazine</figcaption>
             </figure>
             <ul>
@@ -188,7 +200,11 @@
           <fieldset id="mw" class="">
             <h3 class="label">Market Watch</h3>
             <figure>
+<<<<<<< HEAD
               <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/MW0715_cover5snd.jpg" title="Market Watch magazine" alt="Market Watch">
+=======
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/MW1014_coversnd.jpg" title="Market Watch magazine" alt="Market Watch">
+>>>>>>> 24f5d41ced2509ef6f969f6f35d7173a61760472
               <figcaption class="tagline">Keep on top of the Wine, Spirits and Beer Business</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
@@ -245,26 +261,35 @@
           </fieldset>
           </div>
         </div><!-- /.row-fluid -->
-        
+
         <div class="row-fluid grouping">
           <div class="span12">
           <fieldset id="imdb" class="">
             <figure>
+<<<<<<< HEAD
                 <a href="http://www.winespectator.com/display/show/id/impact_databank_report" alt="Impact Databank order link" target="_blank"><img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/IM_ReportBooks_169x169.jpg" title="Impact Databank" alt="Impact Databank"></a>
               </figure>
             <h3 class="label">Impact Databank 2015 Reports</h3> 
             <p>Order comprehensive reports on the U.S. wine, spirits and cider markets. Get your first look at 2014 data and 2015 projections from the Shanken Impact experts.</p>
             <p><a href="http://www.winespectator.com/display/show/id/impact_databank_report" alt="Impact Databank order link" target="_blank">Click here to order</a></p>
+=======
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/impact.jpg" title="Impact Databank" alt="Impact Databank">
+              </figure>
+            <h3 class="label">Impact Databank</h3>
+            <p class="tagline">Exclusive beer, wine &amp; distilled spirits industry reports with data and analysis:</h4>
+            <p>brand data, consumption trends, brand depletion trends, drinker demographics, advertising expenditures and much more.</p>
+            <p><a href="http://assets.winespectator.com/wso/pdf/impactOrderForm2015us_v3.pdf" alt="Impact Databank order link" target="_blank">Click here for more information (PDF).</a>
+>>>>>>> 24f5d41ced2509ef6f969f6f35d7173a61760472
           </fieldset>
         </div>
-        </div><!-- /.row-fluid --> 
+        </div><!-- /.row-fluid -->
 
         <div class="row-fluid">
         <div class="span12">
-          
+
           <fieldset class="form-stacked" id="yourinfo">
           <h3 class="label">Please fill out your information</h3>
-            
+
             <div class="control-group">
               <label class="control-label" for="fname">First Name</label>
               <div class="controls">
@@ -289,7 +314,7 @@
                 <input type="text" class="span9" id="email" name="email" value="<?=$email;?>" placeholder="What is your Email address?" required>
               </div>
             </div>
-            
+
              <div class="control-group">
               <label class="control-label" for="street">Street</label>
               <div class="controls">
@@ -334,13 +359,13 @@
 
           </fieldset>
         </div>
-        </div><!-- /.row-fluid --> 
-       
+        </div><!-- /.row-fluid -->
+
     </div><!-- /.row-fluid -->
      </form>
-            
-<? } 
-	
+
+<? }
+
 function isEmail($email) { // Email address verification, do not edit.
 return(preg_match("/^[-_.[:alnum:]]+@((([[:alnum:]]|[[:alnum:]][[:alnum:]-]*[[:alnum:]])\.)+(ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|at|au|aw|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cs|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|in|info|int|io|iq|ir|is|it|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|mg|mh|mil|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nt|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)$|(([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5])\.){3}([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5]))$/i",$email));
 }
