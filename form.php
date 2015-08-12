@@ -90,7 +90,7 @@
             <fieldset id="ws" class="">            
               <h3 class="label">Wine Spectator</h3>
               <figure>
-                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WS123114giftcenter.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WS093015snd.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
                 <figcaption class="tagline">Take the Guesswork Out of Enjoying Wine</figcaption>
               </figure>  
               <ul>
@@ -122,7 +122,7 @@
             <fieldset id="ca" class="clearfix">
               <h3 class="label">Cigar Aficionado</h3>
               <figure>
-                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/CA201411snd.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
+                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/CA201509snd.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
                 <figcaption class="tagline">The Good Life Magazine for Men</figcaption>
               </figure>
               <ul>
@@ -154,7 +154,7 @@
           <fieldset id="wa" class="">
             <h3 class="label">Whisky Advocate</h3>
             <figure>
-              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WA0414_cover5snd.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/WA201501snd.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
               <figcaption class="tagline">America's Leading Whisky magazine</figcaption>
             </figure>
             <ul>
@@ -188,7 +188,7 @@
           <fieldset id="mw" class="">
             <h3 class="label">Market Watch</h3>
             <figure>
-              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/MW1014_coversnd.jpg" title="Market Watch magazine" alt="Market Watch">
+              <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/MW0715_cover5snd.jpg" title="Market Watch magazine" alt="Market Watch">
               <figcaption class="tagline">Keep on top of the Wine, Spirits and Beer Business</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
@@ -250,12 +250,11 @@
           <div class="span12">
           <fieldset id="imdb" class="">
             <figure>
-                <img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/impact.jpg" title="Impact Databank" alt="Impact Databank">
+                <a href="http://www.winespectator.com/display/show/id/impact_databank_report" alt="Impact Databank order link" target="_blank"><img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/IM_ReportBooks_169x169.jpg" title="Impact Databank" alt="Impact Databank"></a>
               </figure>
-            <h3 class="label">Impact Databank</h3>
-            <p class="tagline">Exclusive beer, wine &amp; distilled spirits industry reports with data and analysis:</h4> 
-            <p>brand data, consumption trends, brand depletion trends, drinker demographics, advertising expenditures and much more.</p>
-            <p><a href="http://assets.winespectator.com/wso/pdf/ImpactOrderForm2-2013.pdf" alt="Impact Databank order link" target="_blank">Click here for more information (PDF).</a>
+            <h3 class="label">Impact Databank 2015 Reports</h3> 
+            <p>Order comprehensive reports on the U.S. wine, spirits and cider markets. Get your first look at 2014 data and 2015 projections from the Shanken Impact experts.</p>
+            <p><a href="http://www.winespectator.com/display/show/id/impact_databank_report" alt="Impact Databank order link" target="_blank">Click here to order</a></p>
           </fieldset>
         </div>
         </div><!-- /.row-fluid --> 
