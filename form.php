@@ -250,11 +250,11 @@
           <div class="span12">
           <fieldset id="imdb" class="">
             <figure>
-                <a href="http://www.winespectator.com/display/show/id/impact_databank_report" alt="Impact Databank order link" target="_blank"><img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/IM_ReportBooks_169x169.jpg" title="Impact Databank" alt="Impact Databank"></a>
+                <a href="http://www.shankennewsdaily.com/index.php/impact-databank-report" alt="Impact Databank order link" target="_blank"><img src="https://s3.amazonaws.com/assets.mshanken.com/wso/static/promos/IM_ReportBooks_169x169.jpg" title="Impact Databank" alt="Impact Databank"></a>
               </figure>
             <h3 class="label">Impact Databank 2015 Reports</h3> 
             <p>Order comprehensive reports on the U.S. wine, spirits and cider markets. Get your first look at 2014 data and 2015 projections from the Shanken Impact experts.</p>
-            <p><a href="http://www.winespectator.com/display/show/id/impact_databank_report" alt="Impact Databank order link" target="_blank">Click here to order</a></p>
+            <p><a href="http://www.shankennewsdaily.com/index.php/impact-databank-report" alt="Impact Databank order link" target="_blank">Click here to order</a></p>
 		</figure>
           </fieldset>
         </div>
