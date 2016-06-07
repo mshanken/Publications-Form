@@ -27,7 +27,7 @@
     <footer class="content container-fluid">
       <div class="row-fluid">
         <div class="span12" id="pageTitle">
-          <p>&copy; 2015 M. Shanken Communications, Inc.</p>
+          <p>&copy; <?php echo date("Y") ?> M. Shanken Communications, Inc.</p>
           <p>All rights reserved.</p>
           <p>Have a question? Email us at <a href="mailto:customerservice@mshanken.com" title="email us">customerservice@mshanken.com</a></p>
         </div><!-- /.span12 -->
