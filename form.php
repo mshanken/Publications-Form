@@ -249,7 +249,7 @@
             <fieldset id="en" class="">
               <h3 class="label">Email Newsletters</h3>
               <figure>
-                <figcaption class="tagline">Click the links below to sign-up for our FREE email newsletters.</figcaption>
+                <figcaption class="tagline">Click the links below to sign-up for our email newsletters.</figcaption>
               </figure>
               <ul>
                 <li><a href="http://newsletters.winespectator.com/?source=wso_newspg_header" target="_blank">Wine Spectator</a></li>
