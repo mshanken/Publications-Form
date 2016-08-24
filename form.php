@@ -96,7 +96,7 @@
               <ul>
                 <li>
                   <label class="radio">
-                    <input type="radio" name="wsoption" id="ws-us1" value="$49.95/year US 15 issues">$59.95/year US 15 issues</input>
+                    <input type="radio" name="wsoption" id="ws-us1" value="$59.95/year US 15 issues">$59.95/year US 15 issues</input>
                   </label>
                 </li>
                 <li>
@@ -128,7 +128,7 @@
               <ul>
                 <li>
                   <label class="radio">
-                    <input type="radio" name="caoption" id="ca-us1" value="$19.95/year US 6 issues">$24.95/year US 6 issues</input>
+                    <input type="radio" name="caoption" id="ca-us1" value="$24.95/year US 6 issues">$24.95/year US 6 issues</input>
                   </label>
                 </li>
                 <li>
@@ -160,7 +160,7 @@
             <ul>
               <li>
                 <label class="radio">
-                  <input type="radio" name="waoption" id="wa-us1" value="$18.00/year US 4 issues">$22.00/year US 4 issues</input>
+                  <input type="radio" name="waoption" id="wa-us1" value="$22.00/year US 4 issues">$22.00/year US 4 issues</input>
                 </label>
               </li>
               <li>
