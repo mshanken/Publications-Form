@@ -90,7 +90,7 @@
             <fieldset id="ws" class="">
               <h3 class="label">Wine Spectator</h3>
               <figure>
-                <img src="http://assets.mshanken.com/wso/static/promos/WS_CVR_225x296.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
+                <img src="http://assets.mshanken.com/wso/static/promos/ws-2018-31-3.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
                 <figcaption class="tagline">Take the Guesswork Out of Enjoying Wine</figcaption>
               </figure>
               <ul>
@@ -122,7 +122,7 @@
             <fieldset id="ca" class="clearfix">
               <h3 class="label">Cigar Aficionado</h3>
               <figure>
-                <img src="http://assets.mshanken.com/wso/static/promos/CA_Cvr_225x281.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
+                <img src="http://assets.mshanken.com/wso/static/promos/ca-2018-1_2.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
                 <figcaption class="tagline">The Good Life Magazine for Men</figcaption>
               </figure>
               <ul>
@@ -154,7 +154,7 @@
           <fieldset id="wa" class="">
             <h3 class="label">Whisky Advocate</h3>
             <figure>
-              <img src="http://assets.mshanken.com/wso/static/promos/WA_225x269.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
+              <img src="http://assets.mshanken.com/wso/static/promos/WA-2017-winter.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
               <figcaption class="tagline">America's Leading Whisky magazine</figcaption>
             </figure>
             <ul>
@@ -188,7 +188,7 @@
           <fieldset id="mw" class="">
             <h3 class="label">Market Watch</h3>
             <figure>
-              <img src="http://assets.mshanken.com/wso/static/promos/MW_CVR_225x300.jpg" title="Market Watch magazine" alt="Market Watch">
+              <img src="http://assets.mshanken.com/wso/static/promos/MW-2018-1_2.jpg" title="Market Watch magazine" alt="Market Watch">
               <figcaption class="tagline">Keep on top of the Wine, Spirits and Beer Business</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
@@ -221,7 +221,7 @@
           <fieldset id="im" class="">
             <h3 class="label">Impact</h3>
             <figure>
-              <img src="http://assets.mshanken.com/wso/static/promos/IM_CVR_225x291.jpg" title="Impact magazine" alt="Impact">
+              <img src="http://assets.mshanken.com/wso/static/promos/im-2018-1_15-1.jpg" title="Impact magazine" alt="Impact">
               <figcaption class="tagline">News and Research For the Beverage Alcohol Executive</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
