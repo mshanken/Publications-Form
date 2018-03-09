@@ -267,8 +267,8 @@
             <figure>
                 <a href="http://www.shankennewsdaily.com/index.php/impact-databank-report" alt="Impact Databank order link" target="_blank"><img src="http://assets.mshanken.com/wso/static/promos/IM_ReportBooks_169x169.jpg" title="Impact Databank" alt="Impact Databank"></a>
               </figure>
-            <h3 class="label">Impact Databank 2017 Reports</h3> 
-            <p>Order comprehensive reports on the U.S. wine and spirits markets. Get 2016 data and 2017 projections from the Shanken Impact experts.</p>
+            <h3 class="label">Impact Databank 2018 Reports</h3> 
+            <p>Order comprehensive reports on the U.S. wine and spirits markets. Get 2017 data and 2018 projections from the Shanken Impact experts.</p>
             <p><a href="http://www.shankennewsdaily.com/index.php/impact-databank-report" alt="Impact Databank order link" target="_blank">Click here to order</a></p>
 		</figure>
           </fieldset>
