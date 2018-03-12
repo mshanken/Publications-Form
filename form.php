@@ -254,7 +254,7 @@
               <ul>
                 <li><a href="http://newsletters.winespectator.com/?source=wso_newspg_header" target="_blank">Wine Spectator</a></li>
                 <li><a href="http://newsletters.cigaraficionado.com/" target="_blank">Cigar Aficionado</a></li>
-                <li><a href="http://visitor.constantcontact.com/manage/optin/ea?v=001peuSb9w_PdAUoEAE5adOcQ%3D%3D" target="_blank">Whisky Advocate</a></li>
+                <li><a href="http://newsletters.whiskyadvocate.com/" target="_blank">Whisky Advocate</a></li>
                 <li><a href="http://newsletters.shankennewsdaily.com/" target="_blank">Shanken News Daily</a></li>
               </ul>
             </fieldset>
