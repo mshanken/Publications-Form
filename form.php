@@ -95,22 +95,22 @@
               </figure>
               <ul>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ws-us1">
                     <input type="radio" name="wsoption" id="ws-us1" value="$59.95/year US 15 issues">$59.95/year US 15 issues</input>
                   </label>
                 </li>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ws-can1">
                     <input type="radio" name="wsoption" id="ws-can1" value="$80.00/year Canada 15 issues">$80.00/year Canada 15 issues</input>
                   </label>
                 </li>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ws-for1">
                     <input type="radio" name="wsoption" id="ws-for1" value="$145.00/year Foreign 15 issues">$145.00/year Foreign 15 issues</input>
                   </label>
                 </li>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ws-none">
                     <input type="radio" name="wsoption" id="ws-none" value="None" checked="checked">No thanks.</input>
                   </label>
                 </li>
@@ -127,22 +127,22 @@
               </figure>
               <ul>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ca-us1">
                     <input type="radio" name="caoption" id="ca-us1" value="$24.95/year US 6 issues">$24.95/year US 6 issues</input>
                   </label>
                 </li>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ca-can1">
                     <input type="radio" name="caoption" id="ca-can1" value="$38.00/year Canada 6 issues">$38.00/year Canada 6 issues</input>
                   </label>
                 </li>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ca-for1">
                     <input type="radio" name="caoption" id="ca-for1" value="$56.00/year Foreign 6 issues">$56.00/year Foreign 6 issues</input>
                   </label>
                 </li>
                 <li>
-                  <label class="radio">
+                  <label class="radio" for="ca-none">
                     <input type="radio" name="caoption" id="ca-none" value="None" checked="checked">No thanks.</input>
                   </label>
                 </li>
@@ -159,22 +159,22 @@
             </figure>
             <ul>
               <li>
-                <label class="radio">
+                <label class="radio" for="wa-us1">
                   <input type="radio" name="waoption" id="wa-us1" value="$22.00/year US 4 issues">$22.00/year US 4 issues</input>
                 </label>
               </li>
               <li>
-                <label class="radio">
+                <label class="radio" for="wa-can1">
                   <input type="radio" name="waoption" id="wa-can1" value="$24.00/year Canada 4 issues">$24.00/year Canada 4 issues</input>
                 </label>
               </li>
               <li>
-                <label class="radio">
+                <label class="radio" for="wa-for1">
                   <input type="radio" name="waoption" id="wa-for1" value="$40.00/year Foreign 4 issues">$40.00/year Foreign 4 issues</input>
                 </label>
               </li>
               <li>
-                  <label class="radio">
+                  <label class="radio" for="wa-none">
                     <input type="radio" name="waoption" id="wa-none" value="None" checked="checked">No thanks.</input>
                   </label>
                 </li>
@@ -194,22 +194,22 @@
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
             <ul>
               <li>
-                <label class="radio">
+                <label class="radio" for="mw-us1">
                   <input type="radio" name="mwoption" id="mw-us1" value="$60.00/year US 10 issues">$60.00/year US 10 issues</input>
                 </label>
               </li>
               <li>
-                <label class="radio">
+                <label class="radio" for="mw-can1">
                   <input type="radio" name="mwoption" id="mw-can1" value="$70.00/year Canada 10 issues">$70.00/year Canada 10 issues</input>
                 </label>
               </li>
               <li>
-                <label class="radio">
+                <label class="radio" for="mw-for1">
                   <input type="radio" name="mwoption" id="mw-for1" value="$85.00/year Foreign 10 issues">$85.00/year Foreign 10 issues</input>
                 </label>
               </li>
               <li>
-                  <label class="radio">
+                  <label class="radio" for="mw-none">
                     <input type="radio" name="mwoption" id="mw-none" value="None" checked="checked">No thanks.</input>
                   </label>
                 </li>
@@ -227,17 +227,17 @@
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
             <ul>
               <li>
-                <label class="radio">
+                <label class="radio" for="im-uscan1">
                   <input type="radio" name="imoption" id="im-uscan1" value="$975.00/year US/Canada 16 issues">$975.00/year US/Canada 16 issues</input>
                 </label>
               </li>
               <li>
-                <label class="radio">
+                <label class="radio" for="im-for1">
                   <input type="radio" name="imoption" id="im-for1" value="$1,075/year Foreign 16 issues">$1,075/year Foreign 16 issues</input>
                 </label>
               </li>
               <li>
-                  <label class="radio">
+                  <label class="radio" for="im-none">
                     <input type="radio" name="imoption" id="im-none" value="None" checked="checked">No thanks.</input>
                   </label>
                 </li>

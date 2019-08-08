@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>M. Shanken Communications Publication Subscription Form</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,7 +36,7 @@
 
     <footer class="content container-fluid">
       <div class="row-fluid">
-        <div class="span12" id="pageTitle">
+        <div class="span12" id="pageTitle2">
           <p>&copy; <?php echo date("Y") ?> M. Shanken Communications, Inc.</p>
           <p>All rights reserved.</p>
           <p>Have a question? Email us at <a href="mailto:customerservice@mshanken.com" title="email us">customerservice@mshanken.com</a></p>
