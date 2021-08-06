@@ -90,13 +90,13 @@
             <fieldset id="ws" class="">
               <h3 class="label">Wine Spectator</h3>
               <figure>
-                <img src="http://assets.mshanken.com/wso/static/promos/ws-2018-31-3.jpg" title="Wine Spectator magazine" alt="Wine Spectator">
+                <img src="http://assets.mshanken.com/wso/static/promos/600_ws053121_cover.jpeg" title="Wine Spectator magazine" alt="Wine Spectator">
                 <figcaption class="tagline">Take the Guesswork Out of Enjoying Wine</figcaption>
               </figure>
               <ul>
                 <li>
                   <label class="radio" for="ws-us1">
-                    <input type="radio" name="wsoption" id="ws-us1" value="$59.95/year US 15 issues">$59.95/year US 15 issues</input>
+                    <input type="radio" name="wsoption" id="ws-us1" value="$69.95/year US 15 issues">$69.95/year US 15 issues</input>
                   </label>
                 </li>
                 <li>
@@ -122,7 +122,7 @@
             <fieldset id="ca" class="clearfix">
               <h3 class="label">Cigar Aficionado</h3>
               <figure>
-                <img src="http://assets.mshanken.com/wso/static/promos/ca-2018-1_2.jpg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
+                <img src="http://assets.mshanken.com/wso/static/promos/ca0321-coverlores.jpeg" title="Cigar Aficionado magazine" alt="Cigar Aficionado">
                 <figcaption class="tagline">The Good Life Magazine for Men</figcaption>
               </figure>
               <ul>
@@ -154,7 +154,7 @@
           <fieldset id="wa" class="">
             <h3 class="label">Whisky Advocate</h3>
             <figure>
-              <img src="http://assets.mshanken.com/wso/static/promos/WA-2017-winter.jpg" title="Whisky Advocate magazine" alt="Whisky Advocate">
+              <img src="http://assets.mshanken.com/wso/static/promos/WA0221_coverhires-768x917.jpeg" title="Whisky Advocate magazine" alt="Whisky Advocate">
               <figcaption class="tagline">America's Leading Whisky magazine</figcaption>
             </figure>
             <ul>
@@ -188,7 +188,7 @@
           <fieldset id="mw" class="">
             <h3 class="label">Market Watch</h3>
             <figure>
-              <img src="http://assets.mshanken.com/wso/static/promos/MW-2018-1_2.jpg" title="Market Watch magazine" alt="Market Watch">
+              <img src="http://assets.mshanken.com/wso/static/promos/MW0721_coverweb.jpeg" title="Market Watch magazine" alt="Market Watch">
               <figcaption class="tagline">Keep on top of the Wine, Spirits and Beer Business</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
@@ -267,8 +267,8 @@
             <figure>
                 <a href="https://www.impactdatabank.com/" alt="Impact Databank order link" target="_blank"><img src="http://assets.mshanken.com/wso/static/promos/IM_ReportBooks_169x169.jpg" title="Impact Databank" alt="Impact Databank"></a>
               </figure>
-            <h3 class="label">Impact Databank 2018 Reports</h3> 
-            <p>Order comprehensive reports on the U.S. wine and spirits markets. Get 2017 data and 2018 projections from the Shanken Impact experts.</p>
+            <h3 class="label">Impact Databank 2021 Reports</h3> 
+            <p>Order comprehensive reports on the U.S. wine and spirits markets. Get 2020 data and 2021 projections from the Shanken Impact experts.</p>
             <p><a href="https://www.impactdatabank.com/" alt="Impact Databank order link" target="_blank">Click here to order</a></p>
 		</figure>
           </fieldset>
