@@ -221,7 +221,7 @@
           <fieldset id="im" class="">
             <h3 class="label">Impact</h3>
             <figure>
-              <img src="http://assets.mshanken.com/wso/static/promos/im-2018-1_15-1.jpg" title="Impact magazine" alt="Impact">
+              <img src="http://assets.mshanken.com/wso/static/promos/IMP07-1521_coverweb.jpg" title="Impact magazine" alt="Impact">
               <figcaption class="tagline">News and Research For the Beverage Alcohol Executive</figcaption>
             </figure>
             <p class="freemsg">Free Digital Edition with Print Subscription</p>
